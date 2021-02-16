@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# zangmen,s GitHub Pages
+##  歡迎來到zangmen的GitHub Pages
+###  自我介紹
+*  喜歡二次元＆日劇的肥宅（百合＆貓娘向）
+*  不怕出問題，但希望問題能少一點
+*  不喜歡五毛＆粉紅＆有色彩的政冶（不理性直接B了）
 
-You can use the [editor on GitHub](https://github.com/zangmen/zangmen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 自己喜歡的東西
+* Linux (目前使用Manjaro＋ck patch)
+![Alt text](by_ck_patch.png)
+   * 使用 [repo-ck](http://repo-ck.com) 的源
+*  電腦硬體（AMD最高）
+*  手機(包含刷機）
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 自己的SNS
+* [Youtube](https://www.youtube.com/channel/UCfBR43eCo07mPWN6K-97TEA)
+* [Twitter](https://twitter.com/chzangmen)
+* [Instagram](https://www.instagram.com/zangmenhsu)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zangmen/zangmen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
